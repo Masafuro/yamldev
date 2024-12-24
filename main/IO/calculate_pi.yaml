@@ -1,0 +1,10 @@
+input:
+  params:
+  - 30
+output:
+  metadata:
+    param_count: 1
+    status: success
+    timestamp: '2024-12-24T21:40:47.321564'
+  result:
+  - '3.141592653589793238462643383279'
